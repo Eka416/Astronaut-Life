@@ -1,2 +1,2 @@
-# Astronaut-Life
-Click on arrow keys to see the astronaut change.
+# p5.play-boilerplate
+Boiler plate for p5.play
